@@ -26,6 +26,10 @@ This project builds a complete data pipeline that scrapes, processes, stores, an
 | Reddit         | CSV    | Weekly mentions of titles |
 | Google Trends  | CSV    | Regional interest over time |
 
+
+Here is the URL that i've used to get the data from Netflix : https://www.netflix.com/tudum/top10
+
+
 > All raw `.csv` files are stored in a folder named `Data` inside the S3 bucket **`netflixprooject`**.
 
 ---
