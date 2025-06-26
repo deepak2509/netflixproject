@@ -70,7 +70,8 @@ Each extractor runs as a separate Airflow task:
   - `extract_imdb`
   - `extract_reddit`
   - `extract_trends`
-  - `transform_and_upload_to_s3` (optional)
+  - `transform`
+  - `Upload_to_s3`
 
 ```bash
 # Run with Docker
