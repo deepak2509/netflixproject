@@ -1,0 +1,14 @@
+omdb_api_key: 4f1f9f2a
+
+twitter:
+  bearer_token: ""
+
+reddit:
+  client_id: ""
+  client_secret: ""
+  user_agent: "Sr"
+aws:
+  access_key: 
+  secret_key: 
+  region: 
+  bucket: 
